@@ -1,4 +1,4 @@
-Our first meeting with Juan on 2018-08-01
+Our first meeting with Juan and Genevieve on 2018-08-01
 * we discussed our interests to decide on the project out of the [Road to scikit-image 1.0](https://ilovesymposia.com/2018/07/13/the-road-to-scikit-image-1-0/)
 * decided on pair programming and that Shachar and I would work on the same issue
 * decided on working on the "[Registration](https://en.wikipedia.org/wiki/Image_stitching#Registration) Module"
